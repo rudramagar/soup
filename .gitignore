@@ -1,0 +1,14 @@
+# Build
+build/
+soupbin_client
+
+# macOS
+.DS_Store
+._*
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
